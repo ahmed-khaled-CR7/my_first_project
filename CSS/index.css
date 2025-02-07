@@ -51,7 +51,7 @@ a{
 /* Header Start*/
 header{
     height: 100vh;
-    background: url(/My_Project/Project/Images/_e70b09d9-c940-47ea-8030-55a7f51be65f.jpg) center center/cover no-repeat;
+    background: url./Images/_e70b09d9-c940-47ea-8030-55a7f51be65f.jpg) center center/cover no-repeat;
     position: relative;
 }
 #navbar{
@@ -165,7 +165,7 @@ header *{
     /* About End*/
     /* daytime Start*/
     #daytime {
-        background: url("/My_Project/Project/Images/daytime_bg.jpeg") center center/cover fixed no-repeat;
+        background: url("./Images/daytime_bg.jpeg") center center/cover fixed no-repeat;
         color: #fff;
         text-align: center;
       }
@@ -290,7 +290,7 @@ header *{
 
       #gallery{
         padding: 8rem 0 4rem;
-        background: url(/My_Project/Project/Images/offer-background.jpg) center center/cover fixed;
+        background: url(./Images/offer-background.jpg) center center/cover fixed;
         
       }
       #gallery h2{
